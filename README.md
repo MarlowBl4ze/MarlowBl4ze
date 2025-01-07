@@ -1,5 +1,6 @@
-## Hi there 👋
+Yo
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlowBl4ze&show_icons=true&theme=ambient_gradient)
 <!--
 **MarlowBl4ze/MarlowBl4ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
