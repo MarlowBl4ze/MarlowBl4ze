@@ -1,5 +1,7 @@
 Yo
 
+random things here cause it's cool
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlowBl4ze&show_icons=true&theme=ambient_gradient)
 
 
