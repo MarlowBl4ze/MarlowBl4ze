@@ -57,11 +57,7 @@ Yo
                                                                                                     
                                                                                                     
                                                                                                     
-                                                                                                    
-                                                                                                    
 
-    ^
-    |
 (this should be a kirby)
 
 
